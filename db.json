@@ -1,0 +1,283 @@
+{
+    "subjects": [
+        {
+          "id": 1,
+          "name": "English",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": true
+        },
+        {
+          "id": 2,
+          "name": "Math",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": false
+        },
+        {
+          "id": 3,
+          "name": "Science",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": false
+        },
+        {
+          "id": 4,
+          "name": "SST",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": false
+        },
+        {
+          "id": 5,
+          "name": "Computer",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": false
+        },
+        {
+          "id": 6,
+          "name": "Swahili",
+          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
+          "enabled": false
+        }
+    ],
+    "topics": [
+      {
+        "id": 1,
+        "topics": [
+          {
+            "id": 1,
+            "title": "Fill in the blank spaces",
+            "number_of_completed_questions": 0,
+            "total_number_of_questions": 5
+          },
+          {
+            "id": 2,
+            "title": "Proverbs",
+            "number_of_completed_questions": 2,
+            "total_number_of_questions": 5
+          },
+          {
+            "id": 3,
+            "title": "Fill in the blank spaces",
+            "number_of_completed_questions": 5,
+            "total_number_of_questions": 5
+          },
+          {
+            "id": 4,
+            "title": "Proverbs",
+            "number_of_completed_questions": 0,
+            "total_number_of_questions": 5
+          }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "questions": [
+          {
+            "id": 1,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "Mrs. Okumu is a",
+            "question_part_2": "in a big school. (library)",
+            "answer": "librarian",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 2,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "The",
+            "question_part_2": "cat drank all the milk. (hunger)",
+            "answer": "hungry",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 3,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "Apio is",
+            "question_part_2": "than her elder brother. (tall)",
+            "answer": "taller",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 4,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "All the pupils participated in the",
+            "question_part_2": "of prefects. (elect)",
+            "answer": "election",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 5,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "Our school is",
+            "question_part_2": "in Lira Municipality. (locate)",
+            "answer": "located",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 6,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "Bad children",
+            "question_part_2": "to their teachers. (lie)",
+            "answer": "lie",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 7,
+            "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
+            "question_part_1": "Magara is the best",
+            "question_part_2": "in our school. (dance)",
+            "answer": "dancer",
+            "question_type": "fillBlankSpaceQuestions"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "questions": [
+          {
+            "id": 1,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "As white as",
+            "question_part_2": "",
+            "answer": "snow",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 2,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "One by one",
+            "question_part_2": "",
+            "answer": "makes a bundle",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 3,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "A stitch in time",
+            "question_part_2": "",
+            "answer": "saves nine",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 4,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "A bird at hand",
+            "question_part_2": "",
+            "answer": "is worth two in the bush",
+            "question_type": "fillBlankSpaceQuestions"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "questions": [
+          {
+            "id": 1,
+            "instruction": "Fill in the blank space with the correct word.",
+            "question_part_1": "Samuel does not know",
+            "question_part_2": "to ride a bicycle.",
+            "answer": "how",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 2,
+            "instruction": "Fill in the blank space with the correct word.",
+            "question_part_1": "At what",
+            "question_part_2": "will the concert begin ?",
+            "answer": "time",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 3,
+            "instruction": "Fill in the blank space with the correct word.",
+            "question_part_1": "School debates consist of proposers and",
+            "question_part_2": "",
+            "answer": "opposers",
+            "question_type": "fillBlankSpaceQuestions"
+          },
+          {
+            "id": 4,
+            "instruction": "Fill in the blank space with the correct word.",
+            "question_part_1": "Puppy is to dog as",
+            "question_part_2": "is to elephant.",
+            "answer": "calf",
+            "question_type": "fillBlankSpaceQuestions"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "questions": [
+          {
+            "id": 1,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "As white as",
+            "question_part_2": "",
+            "answer": "snow",
+            "question_type": "multipleChoice",
+            "potential_answers": [
+              "snow",
+              "ice",
+              "clouds",
+              "feathers"
+            ]
+          },
+          {
+            "id": 2,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "One by one",
+            "question_part_2": "",
+            "answer": "makes a bundle",
+            "question_type": "multipleChoice",
+            "potential_answers": [
+              "becomes a crowd",
+              "makes a bundle",
+              "gather here",
+              "makes two"
+            ]
+          },
+          {
+            "id": 3,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "A stitch in time",
+            "question_part_2": "",
+            "answer": "saves nine",
+            "question_type": "multipleChoice",
+            "potential_answers": [
+              "saves time",
+              "saves nine",
+              "is good",
+              "stitches others"
+            ]
+          },
+          {
+            "id": 4,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "A bird at hand",
+            "question_part_2": "",
+            "answer": "is worth two in the bush",
+            "question_type": "multipleChoice",
+            "potential_answers": [
+              "is better",
+              "is good luck",
+              "becomes a crowd",
+              "is worth two in the bush"
+            ]
+          },
+          {
+            "id": 5,
+            "instruction": "Complete the proverb below",
+            "question_part_1": "A rolling stone",
+            "question_part_2": "",
+            "answer": "gathers no moss",
+            "question_type": "multipleChoice",
+            "potential_answers": [
+              "produces dust",
+              "gathers no moss",
+              "moves very fast",
+              "is not seen"
+            ]
+          }
+        ]
+      }
+    ]
+  }
