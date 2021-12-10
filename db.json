@@ -43,24 +43,28 @@
         "topics": [
           {
             "id": 1,
+            "subjectId": 1,
             "title": "Fill in the blank spaces",
             "number_of_completed_questions": 0,
             "total_number_of_questions": 5
           },
           {
             "id": 2,
+            "subjectId": 1,
             "title": "Proverbs",
             "number_of_completed_questions": 2,
             "total_number_of_questions": 5
           },
           {
             "id": 3,
+            "subjectId": 1,
             "title": "Fill in the blank spaces",
             "number_of_completed_questions": 5,
             "total_number_of_questions": 5
           },
           {
             "id": 4,
+            "subjectId": 1,
             "title": "Proverbs",
             "number_of_completed_questions": 0,
             "total_number_of_questions": 5
@@ -74,6 +78,7 @@
         "questions": [
           {
             "id": 1,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "Mrs. Okumu is a",
             "question_part_2": "in a big school. (library)",
@@ -82,6 +87,7 @@
           },
           {
             "id": 2,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "The",
             "question_part_2": "cat drank all the milk. (hunger)",
@@ -90,6 +96,7 @@
           },
           {
             "id": 3,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "Apio is",
             "question_part_2": "than her elder brother. (tall)",
@@ -98,6 +105,7 @@
           },
           {
             "id": 4,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "All the pupils participated in the",
             "question_part_2": "of prefects. (elect)",
@@ -106,6 +114,7 @@
           },
           {
             "id": 5,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "Our school is",
             "question_part_2": "in Lira Municipality. (locate)",
@@ -114,6 +123,7 @@
           },
           {
             "id": 6,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "Bad children",
             "question_part_2": "to their teachers. (lie)",
@@ -122,6 +132,7 @@
           },
           {
             "id": 7,
+            "topicId": 1,
             "instruction": "Use the correct form of the word given in the brackets to complete the sentence.",
             "question_part_1": "Magara is the best",
             "question_part_2": "in our school. (dance)",
@@ -135,6 +146,7 @@
         "questions": [
           {
             "id": 1,
+            "topicId": 2,
             "instruction": "Complete the proverb below",
             "question_part_1": "As white as",
             "question_part_2": "",
@@ -143,6 +155,7 @@
           },
           {
             "id": 2,
+            "topicId": 2,
             "instruction": "Complete the proverb below",
             "question_part_1": "One by one",
             "question_part_2": "",
@@ -151,6 +164,7 @@
           },
           {
             "id": 3,
+            "topicId": 2,
             "instruction": "Complete the proverb below",
             "question_part_1": "A stitch in time",
             "question_part_2": "",
@@ -159,6 +173,7 @@
           },
           {
             "id": 4,
+            "topicId": 2,
             "instruction": "Complete the proverb below",
             "question_part_1": "A bird at hand",
             "question_part_2": "",
@@ -172,6 +187,7 @@
         "questions": [
           {
             "id": 1,
+            "topicId": 3,
             "instruction": "Fill in the blank space with the correct word.",
             "question_part_1": "Samuel does not know",
             "question_part_2": "to ride a bicycle.",
@@ -180,6 +196,7 @@
           },
           {
             "id": 2,
+            "topicId": 3,
             "instruction": "Fill in the blank space with the correct word.",
             "question_part_1": "At what",
             "question_part_2": "will the concert begin ?",
@@ -188,6 +205,7 @@
           },
           {
             "id": 3,
+            "topicId": 3,
             "instruction": "Fill in the blank space with the correct word.",
             "question_part_1": "School debates consist of proposers and",
             "question_part_2": "",
@@ -196,6 +214,7 @@
           },
           {
             "id": 4,
+            "topicId": 3,
             "instruction": "Fill in the blank space with the correct word.",
             "question_part_1": "Puppy is to dog as",
             "question_part_2": "is to elephant.",
@@ -209,6 +228,7 @@
         "questions": [
           {
             "id": 1,
+            "topicId": 4,
             "instruction": "Complete the proverb below",
             "question_part_1": "As white as",
             "question_part_2": "",
@@ -223,6 +243,7 @@
           },
           {
             "id": 2,
+            "topicId": 4,
             "instruction": "Complete the proverb below",
             "question_part_1": "One by one",
             "question_part_2": "",
@@ -237,6 +258,7 @@
           },
           {
             "id": 3,
+            "topicId": 4,
             "instruction": "Complete the proverb below",
             "question_part_1": "A stitch in time",
             "question_part_2": "",
@@ -251,6 +273,7 @@
           },
           {
             "id": 4,
+            "topicId": 4,
             "instruction": "Complete the proverb below",
             "question_part_1": "A bird at hand",
             "question_part_2": "",
@@ -265,6 +288,7 @@
           },
           {
             "id": 5,
+            "topicId": 4,
             "instruction": "Complete the proverb below",
             "question_part_1": "A rolling stone",
             "question_part_2": "",
@@ -281,3 +305,4 @@
       }
     ]
   }
+  
