@@ -29,12 +29,6 @@
           "name": "Computer",
           "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
           "enabled": false
-        },
-        {
-          "id": 6,
-          "name": "Swahili",
-          "logo" : "https://newvision-media.s3.amazonaws.com/cms/c60f07d1-8389-4480-812d-7a256d830201.svg",
-          "enabled": false
         }
     ],
     "topics": [
@@ -305,4 +299,3 @@
       }
     ]
   }
-  
